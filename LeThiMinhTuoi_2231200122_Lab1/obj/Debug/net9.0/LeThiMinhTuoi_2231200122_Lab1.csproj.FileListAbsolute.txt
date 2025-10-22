@@ -1,0 +1,14 @@
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\bin\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.exe
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\bin\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.deps.json
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\bin\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.runtimeconfig.json
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\bin\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.dll
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\bin\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.pdb
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\obj\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\obj\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.AssemblyInfoInputs.cache
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\obj\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.AssemblyInfo.cs
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\obj\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\obj\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.dll
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\obj\Debug\net9.0\refint\LeThiMinhTuoi_2231200122_Lab1.dll
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\obj\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.pdb
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\obj\Debug\net9.0\LeThiMinhTuoi_2231200122_Lab1.genruntimeconfig.cache
+C:\Users\Minh Tuoi\Desktop\.net Lab\LeThiMinhTuoi_2231200122_Lab1\obj\Debug\net9.0\ref\LeThiMinhTuoi_2231200122_Lab1.dll
