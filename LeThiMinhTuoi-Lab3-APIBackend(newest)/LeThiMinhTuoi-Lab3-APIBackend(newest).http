@@ -1,0 +1,6 @@
+@LeThiMinhTuoi_Lab3_APIBackend_newest__HostAddress = http://localhost:5095
+
+GET {{LeThiMinhTuoi_Lab3_APIBackend_newest__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
